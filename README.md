@@ -6,7 +6,7 @@
 - 🎓 I am a **University of Minnesota, Twin Cities** graduate of 2023 with a Bachelor's in **Computer Science** and a double Minor in <br>
      **Digital Media Studies** and **Information Technology**.
   
-- ✍🏼 I’m currently working on **Freelance Web Development**
+- ✍🏼 I’m currently working as a full-time, on-site **Software Engineer @ CelLink**, a fast-paced start-up creating components for datacenters and EV vehicles
 
 - 👨‍💻 My portfolio can be found at my [**Personal Portfolio Website**](http://erickti.42web.io)
 
